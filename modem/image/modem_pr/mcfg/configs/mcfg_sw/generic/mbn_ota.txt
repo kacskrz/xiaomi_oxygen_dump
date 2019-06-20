@@ -1,0 +1,12 @@
+mcfg_sw/generic/china/cmcc/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/cu/commerci/volte/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/china/csl/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/apac/airtel/commerci/mcfg_sw.mbn
+mcfg_sw/generic/apac/idea/commerci/mcfg_sw.mbn
+mcfg_sw/generic/apac/reliance/commerci/mcfg_sw.mbn
+mcfg_sw/generic/apac/vodafone/commerci/mcfg_sw.mbn
+mcfg_sw/generic/sea/ytl/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/common/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/sea/smartone/volte/hk/mcfg_sw.mbn
+mcfg_sw/generic/eu/belarus/commerci/velcom/mcfg_sw.mbn
